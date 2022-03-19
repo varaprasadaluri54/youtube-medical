@@ -7,7 +7,6 @@ export default function App() {
       <NavBar />
       <section id="hero" className="d-flex align-items-center">
         <div className="container text-center position-relative">
-          <img src="./images/12.jpg" alt="hi" />
           <h1>24/7 care is Availble</h1>
           <h2>Welcome everyone</h2>
           <a href="#" className="main-btn">
